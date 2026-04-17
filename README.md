@@ -25,7 +25,7 @@
 </div>
 
 <div align="center">
-    <img src="./public/screenshot.png" alt="Preview Image" height="500" width="100%" />
+    <img src="./screenshot.png" alt="Preview Image" height="500" width="100%" />
 </div>
 
 
